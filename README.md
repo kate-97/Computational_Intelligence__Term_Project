@@ -1,0 +1,2 @@
+# Computational_Intelligence__Term_Project
+Practical project at course of Computational intelligence
